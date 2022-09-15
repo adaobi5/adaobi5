@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Adaobi</h1>
 <h3 align="center">A CS with AI major from London</h3>
 
-<iframe src="https://giphy.com/embed/l0HlHFRbmaZtBRhXG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/colbertlateshow-stephen-colbert-welcome-late-show-l0HlHFRbmaZtBRhXG">via GIPHY</a></p>
+![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
 
 - 🔭 I’m currently working on **A Mixed-Reality Digital Twin**
 
