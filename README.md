@@ -1,7 +1,9 @@
 <h1 align="center">Hey👋, I'm Adaobi</h1>
 <h3 align="center">A CS with AI major from London</h3>
 
-![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)" />
+</p>
 
 - 🔭 I’m currently working on **A Mixed-Reality Digital Twin**
 
