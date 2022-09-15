@@ -2,7 +2,7 @@
 <h3 align="center">A CS with AI major student from London, England 🇬🇧</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/CS251-ColbyCollege-blue">
+    <img src="https://img.shields.io/badge/CS251-ColbyCollege-blue"><https://img.shields.io/github/followers/adaobi5?label=followers&style=social>
 </p>
 
 - ![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
