@@ -2,7 +2,7 @@
 <h3 align="center">A CS with AI major from London</h3>
 
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/l41YhmC0hIcAqC3sY/giphy.gif" width="100"/>
+  <img src=[https://media.giphy.com/media/l41YhmC0hIcAqC3sY/giphy.gif](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)" width="100"/>
 </div>
 
 - 🔭 I’m currently working on **A Mixed-Reality Digital Twin**
