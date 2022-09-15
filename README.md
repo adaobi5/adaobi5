@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Adaobi!</h1>
 <h3 align="center">A CS with AI major from London, England 🇬🇧</h3>
 
-![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
+- - - - - - - ![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif) - - - - - 
 
 - 🔭 I’m currently working on **A Mixed-Reality Digital Twin Project with the Colby INSITE Lab**
 
