@@ -2,8 +2,8 @@
 <h3 align="center">A CS with AI major student from London, England 🇬🇧</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/adaobi5/CS251-Linear-Regression?color=blue&label=CS251&logo=ruby&logoColor=blue"
-        height="130">
+    <img src="https://img.shields.io/badge/CS251-ColbyCollege-blue">
+</p>
 
 - ![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
 
