@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Adaobi!</h1>
-<h3 align="center">A CS with AI major from London, England 🇬🇧</h3>
+<h3 align="center">A CS with AI major student from London, England 🇬🇧</h3>
 
 - ![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
 
