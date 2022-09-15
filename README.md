@@ -1,11 +1,16 @@
 <h1 align="center">Hey👋, I'm Adaobi</h1>
-<h3 align="center">A CS with AI major from London</h3>
+<h3 align="center">A CS with AI major from London, England 🇬🇧</h3>
 
-<align="center" ![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif) >
+![](https://github.com/adaobi5/adaobi5/blob/main/anebuw24-giphy.gif)
 
 - 🔭 I’m currently working on **A Mixed-Reality Digital Twin**
 
 - 💬 Ask me about **Queen Elizabeth and tea!**
+
+- ⚡️ Fun fact...
+- I play basketball!
+![](https://media.giphy.com/media/6COnb3hDSdMXu/giphy.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
