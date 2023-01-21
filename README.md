@@ -11,9 +11,6 @@
 
 - 🔭 I’m currently working on **A Mixed-Reality Digital Twin Project with the Colby INSITE Lab**
 
-- 💬 Ask me about **Queen Elizabeth and tea!**
-- ![](https://raw.githubusercontent.com/adaobi5/adaobi5/main/lizzy.webp)
-
 - ⚡️ Fun fact...
 - I play basketball!
 - ![](https://media.giphy.com/media/6COnb3hDSdMXu/giphy.gif)
